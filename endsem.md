@@ -20,7 +20,7 @@ To verify the hash values and integrity of 2 forensic images.
 ## Procedure
 
 **Step-1:** Create a new case in Autopsy and add 4Dell Latitude CPi.E01 as base source.
-![Step 1](exp5/step2.jpg)
+![Step 1](2.png)
 
 **Step-2:** Open terminal and get the hash value of 4Dell Latitude CPi.E02 using  [Get-FileHash "C:\Users\dharu\Downloads\4Dell Latitude CPi.E02" -Algorithm SHA256] command.
 ![Step 2](exp5/step1.jpg)
