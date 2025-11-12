@@ -23,13 +23,13 @@ To verify the hash values and integrity of 2 forensic images.
 ![Step 1](2.png)
 
 **Step-2:** Open terminal and get the hash value of 4Dell Latitude CPi.E02 using  [Get-FileHash "C:\Users\dharu\Downloads\4Dell Latitude CPi.E02" -Algorithm SHA256] command.
-![Step 2](exp5/step1.jpg)
+![Step 2](4.png)
 
 **Step-3:** Add the hash values and import as base hash lookup in ingest toolbox.
-![Step 3](exp5/step3.jpg)
+![Step 3](3.png)
 
 **Step-4:** Run hash lookup and verification ingest modules to get reported hash verification.
-![Step 4](exp5/step10.jpg)
+![Step 4](5.png)
 
 ---
 
